@@ -1,0 +1,34 @@
+Roman Numeral Worksheet
+Free Code Camp Converter Video
+Code With Yazeed
+
+This table correctly represents 
+Roman Numeral Conversions all of the way to 3999.
+
+M: 1000,
+CM: 900,
+D: 500,
+CD: 400,
+C: 100,
+XC: 90,
+L: 50,
+XL: 40,
+X: 10,
+IX: 9,
+V: 5,
+IV: 9,
+I: 1
+
+1581
+this is the roman numeral for 1581
+stringBuilder = 'MDLXXXI';
+
+try on my own 1993
+
+stringBuilder = 'MCMXCIII'
+
+this has examples of where smaller number is listed first to then
+be subtracted from the bigger number
+
+cannot list a number 4 times in a row with roman numerals
+it can only be done 3 times in a row is the max
